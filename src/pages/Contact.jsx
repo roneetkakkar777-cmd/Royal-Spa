@@ -76,7 +76,7 @@ const Contact = () => {
               <div>
                 <h2 className="text-3xl font-serif font-bold text-white mb-3">Visit Our Spa</h2>
                 <p className="text-nude-300 leading-relaxed text-sm mb-6">
-                  Come experience the luxury of Royal Spa in person. We're located at Mitthas Sweet, Noida Sec-53, Shop No - S8.
+                  Come experience the luxury of Royal Spa in person. We're located at Shop-S8, Main Rd Gijhor, nearby Mithaas Sweets, Block F, Sector 53, Noida.
                 </p>
                 <ContactInfo />
               </div>

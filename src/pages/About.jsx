@@ -35,7 +35,7 @@ const AboutHero = () => (
             Royal Spa was founded with a singular vision: to create Noida's most exceptional wellness sanctuary where every guest experiences true luxury and healing.
           </motion.p>
           <motion.p variants={staggerItem} className="text-nude-300 leading-relaxed">
-            Located in Sector-53, Mitthas Sweet, Shop No S8, our spa combines time-tested therapeutic traditions with innovative modern wellness techniques, delivered by our highly-trained team of certified therapists.
+            Located in Shop-S8, Main Rd Gijhor, nearby Mithaas Sweets, Block F, Sector 53, Noida, our spa combines time-tested therapeutic traditions with innovative modern wellness techniques, delivered by our highly-trained team of certified therapists.
           </motion.p>
           <motion.div variants={staggerItem} className="flex gap-4">
             <Link to="/booking" className="btn-primary">
