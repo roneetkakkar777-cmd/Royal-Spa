@@ -90,7 +90,7 @@ const AboutPreview = () => {
               variants={staggerItem}
               className="text-nude-200 leading-relaxed text-lg"
             >
-              Royal Spa is Noida's premier luxury wellness destination, nestled in Sector-53, Mitthas Sweet. We blend ancient healing traditions with modern therapeutic techniques to deliver an unmatched spa experience.
+              Royal Spa is Noida's premier luxury wellness destination, nestled in Sector-53 near Mithaas Sweets in Gijhor. We blend ancient healing traditions with modern therapeutic techniques to deliver an unmatched spa experience.
             </motion.p>
 
             <motion.p
