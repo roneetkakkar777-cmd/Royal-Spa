@@ -1,9 +1,7 @@
 import { Link } from 'react-router-dom';
-import { motion } from 'framer-motion';
 import { FiPhone, FiMail, FiMapPin, FiClock, FiInstagram, FiFacebook, FiYoutube, FiArrowRight } from 'react-icons/fi';
 import { FaWhatsapp } from 'react-icons/fa';
 import { SPA_INFO, NAV_LINKS, INSTAGRAM_POSTS } from '../../utils/constants';
-import { staggerContainer, staggerItem } from '../../utils/animations';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();

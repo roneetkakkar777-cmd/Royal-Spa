@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 import { FiArrowRight, FiClock } from 'react-icons/fi';
 import { servicesData } from '../../data/servicesData';
 import SectionTitle from '../common/SectionTitle';
-import { staggerContainer, staggerItem, cardHover } from '../../utils/animations';
+import { staggerContainer, staggerItem } from '../../utils/animations';
 
-const ServiceCard = ({ service, index }) => {
+const ServiceCard = ({ service }) => {
   return (
     <motion.div
       variants={staggerItem}

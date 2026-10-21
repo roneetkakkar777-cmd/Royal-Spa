@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { FiSend, FiUser, FiMail, FiPhone, FiMessageSquare } from 'react-icons/fi';
-import { SPA_INFO } from '../../utils/constants';
 import { validateEmail, validatePhone } from '../../utils/helpers';
 
 const ContactForm = () => {

@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { FiArrowRight, FiClock, FiStar, FiUsers } from 'react-icons/fi';
 import { servicesData } from '../data/servicesData';
-import SectionTitle from '../components/common/SectionTitle';
 import AppointmentCTA from '../components/home/AppointmentCTA';
 import { staggerContainer, staggerItem, pageTransition } from '../utils/animations';
 

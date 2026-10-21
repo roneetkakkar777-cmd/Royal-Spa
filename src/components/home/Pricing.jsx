@@ -5,7 +5,7 @@ import { staggerContainer, staggerItem } from '../../utils/animations';
 import { FiCheck, FiX, FiArrowRight } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
-const PricingCard = ({ plan, index }) => {
+const PricingCard = ({ plan }) => {
   return (
     <motion.div
       variants={staggerItem}

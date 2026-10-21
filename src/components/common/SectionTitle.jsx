@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { fadeUp, staggerContainer, staggerItem } from '../../utils/animations';
+import { staggerContainer, staggerItem } from '../../utils/animations';
 import { cn } from '../../utils/helpers';
 
 const SectionTitle = ({

@@ -1,9 +1,7 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { FiArrowRight, FiCheckCircle, FiAward, FiHeart, FiUsers } from 'react-icons/fi';
-import SectionTitle from '../components/common/SectionTitle';
-import { TEAM_MEMBERS, STATS, BENEFITS, SPA_INFO } from '../utils/constants';
-import { staggerContainer, staggerItem, fadeLeft, fadeRight, pageTransition } from '../utils/animations';
+import { FiArrowRight, FiAward, FiHeart, FiUsers } from 'react-icons/fi';
+import { staggerContainer, staggerItem, fadeRight, pageTransition } from '../utils/animations';
 import Stats from '../components/home/Stats';
 import Team from '../components/home/Team';
 import AppointmentCTA from '../components/home/AppointmentCTA';

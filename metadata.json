@@ -1,0 +1,6 @@
+{
+  "name": "Royal Spa",
+  "description": "Royal Spa - Premium Massage & Wellness Spa in Noida Sec-53. Luxury facial treatments, body massage, aromatherapy, hair spa, nail care and more. Open 24 hours.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

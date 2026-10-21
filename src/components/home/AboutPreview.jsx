@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { FiArrowRight, FiCheckCircle } from 'react-icons/fi';
-import { fadeLeft, fadeRight, staggerContainer, staggerItem } from '../../utils/animations';
+import { fadeLeft, staggerContainer, staggerItem } from '../../utils/animations';
 
 const AboutPreview = () => {
   const highlights = [

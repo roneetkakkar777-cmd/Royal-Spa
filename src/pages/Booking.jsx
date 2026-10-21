@@ -1,4 +1,3 @@
-import { useLocation } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import BookingForm from '../components/booking/BookingForm';
 import { SPA_INFO } from '../utils/constants';
@@ -7,8 +6,6 @@ import { FaWhatsapp } from 'react-icons/fa';
 import { pageTransition } from '../utils/animations';
 
 const Booking = () => {
-  const location = useLocation();
-  const preSelectedService = location.state?.service;
 
   return (
     <motion.div

@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import SectionTitle from '../components/common/SectionTitle';
 import GalleryGrid from '../components/gallery/GalleryGrid';
 import AppointmentCTA from '../components/home/AppointmentCTA';
 import { pageTransition } from '../utils/animations';

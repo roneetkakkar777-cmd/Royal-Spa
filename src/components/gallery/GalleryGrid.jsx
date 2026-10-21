@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { galleryData, galleryCategories } from '../../data/galleryData';
 import { FiZoomIn, FiX, FiChevronLeft, FiChevronRight } from 'react-icons/fi';
-import { staggerContainer, staggerItem } from '../../utils/animations';
 
 const Lightbox = ({ image, onClose, onPrev, onNext }) => (
   <AnimatePresence>
